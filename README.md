@@ -45,4 +45,7 @@ list.printMiddle();  // Output: 20
 - .NET 9.0 SDK
 
 
+## Notes
+
+This implementation uses a singly linked list structure where each node contains a value and a reference to the next node. The list maintains references to both the first and last nodes for efficient insertion operations.
 
